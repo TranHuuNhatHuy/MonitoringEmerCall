@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emercall Monitoring</string>
+
+    <string name="ambulancechoosing_text1">No ambulances available at the moment. May consider pressing the button below to notify users to transfer the victim to hospital by themselves.</string>
+</resources>

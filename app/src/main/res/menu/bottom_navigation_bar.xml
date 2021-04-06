@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_users"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_circle_white_24dp"
+        android:title="Users"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_requests"
+        android:enabled="true"
+        android:icon="@drawable/ic_requests"
+        android:title="Requests"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_ambulances"
+        android:enabled="true"
+        android:icon="@drawable/ic_ambulance"
+        android:title="Ambulances"
+        app:showAsAction="ifRoom" />
+</menu>
